@@ -6,10 +6,12 @@ Full Stack Developer
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [afraayavuz@gmail.com](mailto:afraayavuz@gmail.com)
-*Computer Engineer with a passion for full-stack development.
-*Focused on web development.
-*Experienced in JavaScript, Next.js, React, Tailwind CSS, MongoDB and Prisma.
-*Creating modern web apps with a focus on functionality, performance, and design. Open to collaboration on exciting projects.
+  
+* Computer Engineer with a passion for full-stack development.
+* Focused on web development.
+* Experienced in JavaScript, Next.js, React, Tailwind CSS, MongoDB and Prisma.
+* Creating modern web apps with a focus on functionality, performance, and design. Open to collaboration on exciting projects.
+
 ### Skills
 
 
